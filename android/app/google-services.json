@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391216840602",
+    "firebase_url": "https://testfiberproject.firebaseio.com",
+    "project_id": "testfiberproject",
+    "storage_bucket": "testfiberproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391216840602:android:67835e3085118d56ac8423",
+        "android_client_info": {
+          "package_name": "com.med.gestion_d_absence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391216840602-0sqtjvpcmq40tdikf02vh0kk87eqgpg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYPHQYmPcwPa1XyJS0wKD3FMqYPrY03Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391216840602-0sqtjvpcmq40tdikf02vh0kk87eqgpg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
